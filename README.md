@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
  ```
  $ pkg update && pkg upgrade
  $ pkg install python git
- $ git clone https://github.com/Cyber crime Muryxty/Brutal
+ $ git clone https://github.com/Muryxty-MT/kiw
  ```
  oke sekarang script sudah terinstall
 #### CARA MENJALANKAN SCRIPT:
